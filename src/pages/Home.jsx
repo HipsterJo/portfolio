@@ -33,7 +33,7 @@ const Home = () => {
           <div className="w-full md:hidden lg:hidden items-center justify-center flex mt-4">
             <div className="rounded-full w-[180px] h-[180px] bg-[rgb(250,250,250)] items-center justify-center flex">
               <img
-                src="https://avatars.githubusercontent.com/u/127690636?v=4"
+                src="https://dthezntil550i.cloudfront.net/kg/latest/kg1802132010216500004834729/1280_960/557d644f-12f3-49e1-bb66-23c16400540d.png"
                 className="rounded-full w-[160px] h-[160px]"
               />
             </div>
